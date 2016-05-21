@@ -268,10 +268,6 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background-color: #292929;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 #map {
@@ -287,6 +283,7 @@ a:focus {
 
     .download-section {
         padding: 100px 0;
+		background-color: #292929;
     }
 
     #map {
