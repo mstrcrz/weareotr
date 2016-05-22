@@ -906,13 +906,13 @@
 	}
 
 		table tbody tr {
-			border: solid 1px #36383c;
+			border: solid 1px #000;
 			border-left: 0;
 			border-right: 0;
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: #34363b;
+				background-color: #000;
 			}
 
 		table td {
@@ -928,7 +928,7 @@
 		}
 
 		table thead {
-			border-bottom: solid 2px #36383c;
+			border-bottom: solid 2px #000;
 		}
 
 		table tfoot {
@@ -940,7 +940,7 @@
 		}
 
 			table.alt tbody tr td {
-				border: solid 1px #36383c;
+				border: solid 1px #000;
 				border-left-width: 0;
 				border-top-width: 0;
 			}
